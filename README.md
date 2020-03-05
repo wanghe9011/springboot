@@ -1,6 +1,6 @@
 # 简介
 
-Spring Boot示例集合
+Spring Boot示例集合.
 
 # 各模块介绍
 
